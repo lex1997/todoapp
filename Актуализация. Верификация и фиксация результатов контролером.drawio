@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-19T18:29:11.471Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.141 YaBrowser/22.3.3.852 Yowser/2.5 Safari/537.36" etag="SRgt2T89PuzoOS0rs2rJ" version="18.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-04T13:28:08.823Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.143 YaBrowser/22.5.0.1792 Yowser/2.5 Safari/537.36" etag="HvobVaaSgeXxu-3HsVRL" version="18.1.3" type="github">
   <diagram name="Page-1" id="2a216829-ef6e-dabb-86c1-c78162f3ba2b">
-    <mxGraphModel dx="1887" dy="1002" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1209" dy="631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -125,7 +125,7 @@
         <mxCell id="n-bltV9YuMnR6yL7ZxgR-151" value="&lt;span style=&quot;font-size: 15px ; font-style: italic&quot;&gt;Отображение кнопки &quot;Создать приказ&quot;&lt;/span&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13.3;fontColor=#333333;align=center;spacing=3.8;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=7.5;fillColor=#3278ca;strokeWidth=0.8;" parent="1" vertex="1">
           <mxGeometry x="450" y="930" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="d_JNeHHMC8i2ju2meBSZ-4" value="Формирование приказа на самооценку" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=mxgraph.bpmn.shape;verticalLabelPosition=bottom;verticalAlign=top;outline=end;fontSize=13.3;fontColor=#333333;align=center;spacing=0;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=7.5;fillColor=#d2d3d5;strokeWidth=0.8;" parent="1" vertex="1">
+        <mxCell id="d_JNeHHMC8i2ju2meBSZ-4" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=mxgraph.bpmn.shape;verticalLabelPosition=bottom;verticalAlign=top;outline=end;fontSize=13.3;fontColor=#333333;align=center;spacing=0;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=7.5;fillColor=#d2d3d5;strokeWidth=0.8;" parent="1" vertex="1">
           <mxGeometry x="4451.5" y="659.5" width="97" height="102" as="geometry" />
         </mxCell>
         <UserObject label="" lucidchartObjectId="VpN-ry1f92Y4" id="d_JNeHHMC8i2ju2meBSZ-5">
@@ -135,19 +135,9 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <mxCell id="d_JNeHHMC8i2ju2meBSZ-6" value="Фиксация результатов на уровне общих справочников" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13.3;fontColor=#333333;align=center;spacing=3.8;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=7.5;fillColor=#3278ca;strokeWidth=0.8;" parent="1" vertex="1">
+        <mxCell id="d_JNeHHMC8i2ju2meBSZ-6" value="Закрытие модального окна с Фиксацией результатов&amp;nbsp;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13.3;fontColor=#333333;align=center;spacing=3.8;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=7.5;fillColor=#3278ca;strokeWidth=0.8;" parent="1" vertex="1">
           <mxGeometry x="4440" y="439.99999999999994" width="120" height="90" as="geometry" />
         </mxCell>
-        <UserObject label="" lucidchartObjectId="RUQ-fNgdq4fs" id="d_JNeHHMC8i2ju2meBSZ-21">
-          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#333333;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="vy-szPZwCVDSxQaMrcyX-6" target="d_JNeHHMC8i2ju2meBSZ-6" edge="1">
-            <mxGeometry width="100" height="100" relative="1" as="geometry">
-              <Array as="points">
-                <mxPoint x="4500" y="156" />
-              </Array>
-              <mxPoint x="4358" y="156.5" as="sourcePoint" />
-            </mxGeometry>
-          </mxCell>
-        </UserObject>
         <mxCell id="d_JNeHHMC8i2ju2meBSZ-133" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="d_JNeHHMC8i2ju2meBSZ-138" target="d_JNeHHMC8i2ju2meBSZ-132" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -463,7 +453,7 @@
         <mxCell id="d_JNeHHMC8i2ju2meBSZ-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="d_JNeHHMC8i2ju2meBSZ-141" target="d_JNeHHMC8i2ju2meBSZ-143" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="d_JNeHHMC8i2ju2meBSZ-141" value="&lt;span style=&quot;font-size: 15px ; font-style: italic&quot;&gt;по дефолту формирование страницы раздела &quot;История актуализаций по приказу&quot; для соответствующей роли (Контролер СБЕ)&lt;/span&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13.3;fontColor=#333333;align=center;spacing=3.8;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=7.5;fillColor=#3278ca;strokeWidth=0.8;" parent="1" vertex="1">
+        <mxCell id="d_JNeHHMC8i2ju2meBSZ-141" value="&lt;span style=&quot;font-size: 15px ; font-style: italic&quot;&gt;по дефолту формирование страницы раздела &quot;История актуализации Рисков по приказу&quot; для соответствующей роли (Контролер СБЕ)&lt;/span&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13.3;fontColor=#333333;align=center;spacing=3.8;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=7.5;fillColor=#3278ca;strokeWidth=0.8;" parent="1" vertex="1">
           <mxGeometry x="3500" y="396.5" width="180" height="170" as="geometry" />
         </mxCell>
         <mxCell id="d_JNeHHMC8i2ju2meBSZ-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="d_JNeHHMC8i2ju2meBSZ-143" target="d_JNeHHMC8i2ju2meBSZ-144" edge="1">
@@ -472,7 +462,7 @@
         <mxCell id="d_JNeHHMC8i2ju2meBSZ-143" value="&lt;span style=&quot;font-size: 15px ; font-style: italic&quot;&gt;Формирование таблицы ПП согласно правилам сортировки&lt;/span&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13.3;fontColor=#333333;align=center;spacing=3.8;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=7.5;fillColor=#3278ca;strokeWidth=0.8;" parent="1" vertex="1">
           <mxGeometry x="3520" y="596.5" width="140" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="d_JNeHHMC8i2ju2meBSZ-147" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" parent="1" source="d_JNeHHMC8i2ju2meBSZ-144" target="d_JNeHHMC8i2ju2meBSZ-146" edge="1">
+        <mxCell id="d_JNeHHMC8i2ju2meBSZ-147" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;startArrow=none;" parent="1" source="qd90NA3R2FyrwdtVJIM9-5" target="d_JNeHHMC8i2ju2meBSZ-146" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="d_JNeHHMC8i2ju2meBSZ-144" value="&lt;span style=&quot;font-size: 15px ; font-style: italic&quot;&gt;Отображение кнопки &quot;Результаты&quot;&lt;/span&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13.3;fontColor=#333333;align=center;spacing=3.8;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=7.5;fillColor=#3278ca;strokeWidth=0.8;" parent="1" vertex="1">
@@ -484,23 +474,70 @@
         <mxCell id="d_JNeHHMC8i2ju2meBSZ-146" value="&lt;span style=&quot;font-size: 15px ; font-style: italic&quot;&gt;Нажимаем на кнопку &quot;Результаты&quot;&lt;/span&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13.3;fontColor=#333333;align=center;spacing=3.8;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=7.5;fillColor=#3278ca;strokeWidth=0.8;" parent="1" vertex="1">
           <mxGeometry x="3700" y="111.5" width="130" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="vy-szPZwCVDSxQaMrcyX-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d_JNeHHMC8i2ju2meBSZ-148" target="vy-szPZwCVDSxQaMrcyX-4">
+        <mxCell id="vy-szPZwCVDSxQaMrcyX-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="d_JNeHHMC8i2ju2meBSZ-148" target="vy-szPZwCVDSxQaMrcyX-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="d_JNeHHMC8i2ju2meBSZ-148" value="&lt;span style=&quot;font-size: 15px ; font-style: italic&quot;&gt;Верифицируем ПП и дату последнего прохождения актуализации&lt;/span&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13.3;fontColor=#333333;align=center;spacing=3.8;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=7.5;fillColor=#3278ca;strokeWidth=0.8;" parent="1" vertex="1">
           <mxGeometry x="3880" y="107" width="130" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="vy-szPZwCVDSxQaMrcyX-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="vy-szPZwCVDSxQaMrcyX-1" target="d_JNeHHMC8i2ju2meBSZ-148">
+        <mxCell id="vy-szPZwCVDSxQaMrcyX-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="vy-szPZwCVDSxQaMrcyX-1" target="d_JNeHHMC8i2ju2meBSZ-148" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vy-szPZwCVDSxQaMrcyX-1" value="&lt;span style=&quot;font-size: 15px ; font-style: italic&quot;&gt;Формирование модального окна &quot;Результаты актуализации&quot;&lt;/span&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13.3;fontColor=#333333;align=center;spacing=3.8;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=7.5;fillColor=#3278ca;strokeWidth=0.8;" vertex="1" parent="1">
+        <mxCell id="vy-szPZwCVDSxQaMrcyX-1" value="&lt;span style=&quot;font-size: 15px ; font-style: italic&quot;&gt;Формирование модального окна &quot;Результаты актуализации&quot;&lt;/span&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13.3;fontColor=#333333;align=center;spacing=3.8;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=7.5;fillColor=#3278ca;strokeWidth=0.8;" parent="1" vertex="1">
           <mxGeometry x="3880" y="424.5" width="130" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="vy-szPZwCVDSxQaMrcyX-4" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;i&gt;Выделяем ПП по которым нужно согласовать актуализацию&lt;/i&gt;&lt;/span&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13.3;fontColor=#333333;align=center;spacing=3.8;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=7.5;fillColor=#3278ca;strokeWidth=0.8;" vertex="1" parent="1">
+        <mxCell id="qd90NA3R2FyrwdtVJIM9-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vy-szPZwCVDSxQaMrcyX-4" target="qd90NA3R2FyrwdtVJIM9-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vy-szPZwCVDSxQaMrcyX-4" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;i&gt;Выделяем ПП по которым нужно согласовать актуализацию&lt;/i&gt;&lt;/span&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13.3;fontColor=#333333;align=center;spacing=3.8;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=7.5;fillColor=#3278ca;strokeWidth=0.8;" parent="1" vertex="1">
           <mxGeometry x="4060" y="106.5" width="130" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="vy-szPZwCVDSxQaMrcyX-6" value="" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;" vertex="1" parent="1">
-          <mxGeometry x="4380" y="136.5" width="50" height="50" as="geometry" />
+        <mxCell id="qd90NA3R2FyrwdtVJIM9-4" value="Да" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qd90NA3R2FyrwdtVJIM9-1" target="qd90NA3R2FyrwdtVJIM9-3">
+          <mxGeometry x="0.4953" y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qd90NA3R2FyrwdtVJIM9-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="qd90NA3R2FyrwdtVJIM9-1" target="qd90NA3R2FyrwdtVJIM9-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qd90NA3R2FyrwdtVJIM9-13" value="Нет" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qd90NA3R2FyrwdtVJIM9-12">
+          <mxGeometry x="-0.8064" y="-4" relative="1" as="geometry">
+            <mxPoint x="-5" y="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qd90NA3R2FyrwdtVJIM9-1" value="Требуется ли&lt;br&gt;отменить выделение?" style="html=1;overflow=block;blockSpacing=1;shape=mxgraph.bpmn.shape;perimeter=rhombusPerimeter;background=gateway;verticalLabelPosition=bottom;verticalAlign=top;outline=none;symbol=exclusiveGw;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;strokeWidth=0.8;whiteSpace=wrap;fontSize=13.3;fontColor=#333333;align=center;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="4240" y="31.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qd90NA3R2FyrwdtVJIM9-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="qd90NA3R2FyrwdtVJIM9-3" target="qd90NA3R2FyrwdtVJIM9-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qd90NA3R2FyrwdtVJIM9-3" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;i&gt;Нажимаем кнопку &quot;Отменить&quot;&lt;/i&gt;&lt;/span&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13.3;fontColor=#333333;align=center;spacing=3.8;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=7.5;fillColor=#3278ca;strokeWidth=0.8;" vertex="1" parent="1">
+          <mxGeometry x="4225" y="270" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qd90NA3R2FyrwdtVJIM9-5" value="" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;" vertex="1" parent="1">
+          <mxGeometry x="3740" y="751.5" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qd90NA3R2FyrwdtVJIM9-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="d_JNeHHMC8i2ju2meBSZ-144" target="qd90NA3R2FyrwdtVJIM9-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3650" y="776.5" as="sourcePoint" />
+            <mxPoint x="3765" y="211.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qd90NA3R2FyrwdtVJIM9-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="qd90NA3R2FyrwdtVJIM9-7" target="qd90NA3R2FyrwdtVJIM9-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4280" y="777" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qd90NA3R2FyrwdtVJIM9-7" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;i&gt;Закрытие модального окна без сохранения результатов&lt;/i&gt;&lt;/span&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13.3;fontColor=#333333;align=center;spacing=3.8;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=7.5;fillColor=#3278ca;strokeWidth=0.8;" vertex="1" parent="1">
+          <mxGeometry x="4212.5" y="439.5" width="135" height="100.5" as="geometry" />
+        </mxCell>
+        <mxCell id="qd90NA3R2FyrwdtVJIM9-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="qd90NA3R2FyrwdtVJIM9-11" target="d_JNeHHMC8i2ju2meBSZ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qd90NA3R2FyrwdtVJIM9-11" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;i&gt;Нажимаем кнопку &quot;Актуализация&quot;&lt;/i&gt;&lt;/span&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13.3;fontColor=#333333;align=center;spacing=3.8;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=7.5;fillColor=#3278ca;strokeWidth=0.8;" vertex="1" parent="1">
+          <mxGeometry x="4440" y="116" width="120" height="76" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
